@@ -1,0 +1,19 @@
+{
+    "name": "yuka-astersia/laravel-repository",
+    "description": "Laravel Repository",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "YukaAstersia\\LaravelRepository\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yuka Astersia",
+            "email": "yuka.astersia@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
